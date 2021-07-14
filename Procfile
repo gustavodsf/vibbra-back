@@ -1,1 +1,2 @@
-yarn typeorm migration:run
+npm typeorm migration:run
+NODE_ENV=production npm run dev
